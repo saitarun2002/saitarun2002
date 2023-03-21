@@ -20,5 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitarun2002&show_icons=true&locale=en&layout=compact" alt="saitarun2002" /></p>
 
+https://media.giphy.com/media/ptp7jVo3he6BO/giphy.gif
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saitarun2002&show_icons=true&locale=en" alt="saitarun2002" /></p>
 #
